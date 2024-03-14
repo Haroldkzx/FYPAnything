@@ -33,7 +33,7 @@ const Login = () => {
                 onChange={(e) => setUsername(e.target.value)}
               />
 
-              <label htmlFor="password">PASSWORD:</label>
+              <label htmlFor="password">pass:</label>
               <input
                 type="password"
                 id="password"
